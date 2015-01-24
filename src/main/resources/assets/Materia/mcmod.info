@@ -1,16 +1,16 @@
 [
 {
-    "modid": "",
-    "name": "",
-    "description": "",
-    "version": "",
-    "mcversion": "",
+    "modid": "Materia",
+    "name": "Materia",
+    "description": "Mod about Matter and Anti-matter!",
+    "version": "0.5",
+    "mcversion": "1.7.10",
     "url": "",
     "updateUrl": "",
     "authorList": [
     "TheBloodDivision"
     ],
-    "credits": "",
+    "credits": "Pahimar",
     "logoFile": "",
     "screenshots": [
     ],
