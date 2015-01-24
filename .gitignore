@@ -1,5 +1,25 @@
-.gradle
-build/
+## gradle
+/.gradle
+/build
+/gradle
+/gradlew
+/gradlew.bat
 
-# Ignore Gradle GUI config
-gradle-app.setting
+## ForgeGradle
+/run
+
+## eclipse
+/eclipse
+/.settings
+/.metadata
+/.classpath
+/.project
+/bin
+
+## intellij
+/out
+/.idea
+/*.iml
+/*.ipr
+/*.iws
+/atlassian-ide-plugin.xml
