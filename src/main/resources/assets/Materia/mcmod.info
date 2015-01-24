@@ -1,0 +1,21 @@
+[
+{
+    "modid": "",
+    "name": "",
+    "description": "",
+    "version": "",
+    "mcversion": "",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+    "TheBloodDivision"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [
+    ],
+    "parent":"",
+    "dependencies": [
+    ]
+}
+]
